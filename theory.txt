@@ -1,0 +1,6 @@
+~two types of learning parameters
+1 supervised learning 
+2 unsupervised learning
+
+~haarcascsade algorith works on bright and dark parts of faces to check whether its a face or something else.
+~there are 5 haar features. 
